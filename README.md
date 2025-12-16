@@ -6,7 +6,7 @@ Naredil sem spletno stran, na kateri je prikazana vremenska napoved v Novi Goric
 
 ## Razlaga in koda:
 
-Naredil sem glavni "div" in v njega dodal 6 "divov" (en je uporabljen za naslov in podnaslov, ostali pa za vremensko napoved), tako sem lahko urejal besedilo in slike v njih.
+Naredil sem glavni "div" in v njega dodal 6 "divov" (en je uporabljen za naslov in podnaslov, ostali pa za vremensko napoved), tako sem lahko urejal besedilo in slike v njih.<br>
 Primer "diva" v kateremu je vremenska napoved za en dan:
 
 <img width="443" height="133" alt="image" src="https://github.com/user-attachments/assets/e6dd247c-692a-406c-ad31-c118481c8bd3" />

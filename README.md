@@ -26,7 +26,7 @@ Primer "diva" v katerem je vremenska napoved za en dan:
 CSS:<br>
 
 <img width="430" height="178" alt="image" src="https://github.com/user-attachments/assets/85679931-1979-4b83-ae3b-7c463d4a7804" />
-
+<br>
 
 ##Kaj sem se naučil:
 

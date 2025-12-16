@@ -21,7 +21,7 @@ Uporabil sem "h1" za naslov in "h3" za podnaslov.
 Primer "diva" v katerem je vremenska napoved za en dan: 
 <br><br>HTML:
 
-<img width="443" height="133" alt="image" src="https://github.com/user-attachments/assets/e6dd247c-692a-406c-ad31-c118481c8bd3" /><
+<img width="443" height="133" alt="image" src="https://github.com/user-attachments/assets/e6dd247c-692a-406c-ad31-c118481c8bd3" />
 
 CSS:<br>
 

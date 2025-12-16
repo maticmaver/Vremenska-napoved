@@ -1,2 +1,2 @@
 # Slika spletne strani:
-<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/b5c92d88-010e-408c-88ae-11f0c337ba8c" />
+<img width="810" height="495" alt="image" src="https://github.com/user-attachments/assets/2cdc4611-9a04-4b95-9295-bd582017ee5b" />

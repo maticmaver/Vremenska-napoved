@@ -16,7 +16,7 @@ CSS:<br>
 
 <img width="250" height="265" alt="image" src="https://github.com/user-attachments/assets/e99045d2-59f5-4f39-9ef6-29c9e394a4f8" />
 
-<br>
+<br><br>
 Uporabil sem "h1" za naslov in "h3" za podnaslov.
 Primer "diva" v katerem je vremenska napoved za en dan:
 
